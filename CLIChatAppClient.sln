@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CLIChatAppClient", "CLIChatAppClient.csproj", "{86F565B7-1740-46BB-A246-A49FE5A13C29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86F565B7-1740-46BB-A246-A49FE5A13C29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86F565B7-1740-46BB-A246-A49FE5A13C29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86F565B7-1740-46BB-A246-A49FE5A13C29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86F565B7-1740-46BB-A246-A49FE5A13C29}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84297C14-F5E3-461C-9BAC-68709D8DEA91}
+	EndGlobalSection
+EndGlobal
